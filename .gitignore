@@ -1,0 +1,6 @@
+# Ghost - ignore build output
+*.exe
+bin/
+obj/
+*.pdb
+.vs/
